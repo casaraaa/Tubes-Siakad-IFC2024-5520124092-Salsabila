@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SIAKAD Akademik — Tugas Besar Pemrograman Web
 
 ## Nama: Salsabila Rahmah Al-fikriyah
@@ -49,3 +50,6 @@ Mahasiswa: salsabila@gmail.com (password)
 - jadwals (`id`, `kode_matakuliah` FK, `nidn` FK, `kelas`, `hari`, `jam`)
 - krs (`id`, `npm` FK, `kode_matakuliah` FK, unik per pasangan)
 
+=======
+# Tubes-Siakad-IFC2024-5520124092-Salsabila
+>>>>>>> bc09d4870e4ac4b861ae1a943f7475b4279e3ba2
