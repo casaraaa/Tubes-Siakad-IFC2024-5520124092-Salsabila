@@ -51,7 +51,7 @@ Mahasiswa: salsabila@gmail.com (password)
 - krs (`id`, `npm` FK, `kode_matakuliah` FK, unik per pasangan)
 
 ## 7. Screenshoot
-Lihat [folder screenshoot](./screenshoots/) untuk tampilan setiap halaman.
+Lihat folder [screenshoot](./screenshoots/) untuk tampilan setiap halaman.
 
 
 =======
