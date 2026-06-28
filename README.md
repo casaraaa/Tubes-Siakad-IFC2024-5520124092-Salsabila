@@ -50,6 +50,10 @@ Mahasiswa: salsabila@gmail.com (password)
 - jadwals (`id`, `kode_matakuliah` FK, `nidn` FK, `kelas`, `hari`, `jam`)
 - krs (`id`, `npm` FK, `kode_matakuliah` FK, unik per pasangan)
 
+## 7. Screenshoot
+Lihat [folder screenshoot](./screenshoots/) untuk tampilan setiap halaman.
+
+
 =======
 # Tubes-Siakad-IFC2024-5520124092-Salsabila
 >>>>>>> bc09d4870e4ac4b861ae1a943f7475b4279e3ba2
